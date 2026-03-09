@@ -84,19 +84,19 @@ const kamrul = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul-islam-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul-islam-96&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrul-islam-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul-islam-96&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul-islam-96&theme=tokyonight&hide_border=true&fire=FF4500&ring=00d4ff&currStreakLabel=FFFFFF" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=kamrul-islam-96&theme=tokyonight&hide_border=true&fire=FF4500&ring=00d4ff&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="180"/>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul-islam-96&theme=tokyo-night&hide_border=true&area=true&point=00d4ff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul-islam-96&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -104,18 +104,24 @@ const kamrul = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamrul-islam-96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kamrul-islam-96&theme=darkhub&no-frame=true&margin-w=10&column=7" width="95%"/>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
+> 💡 *আপনার actual project repo গুলোর নাম নিচে বসান — এটা placeholder*
+
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamrul-islam-96&repo=kamrul-islam-96&theme=tokyonight&hide_border=true)](https://github.com/kamrul-islam-96)
+| 🚀 Project | 🛠 Tech | 🔗 Link |
+|---|---|---|
+| **Project Name 1** | React, Node.js, MongoDB | [Live Demo](https://kamrulsportfoliosite.netlify.app/) |
+| **Project Name 2** | Next.js, Tailwind, Firebase | [Live Demo](https://kamrulsportfoliosite.netlify.app/) |
+| **Project Name 3** | MERN Stack, JWT | [Live Demo](https://kamrulsportfoliosite.netlify.app/) |
 
-> 💼 *More projects on my [Portfolio](https://kamrulsportfoliosite.netlify.app/) →*
+💼 *More on my [Portfolio →](https://kamrulsportfoliosite.netlify.app/)*
 
 </div>
 
@@ -137,7 +143,7 @@ const kamrul = {
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/kamrul-islam-96">
+<a href="https://www.linkedin.com/in/kamrulhasanbullet">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
