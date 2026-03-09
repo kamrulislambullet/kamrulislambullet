@@ -1,88 +1,160 @@
+<div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kamrul%20Islam&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Specialist&descColor=a0aec0&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+into+Real-World+Apps+%F0%9F%92%A1;Open+for+New+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Tomar existing content shuru hobe ekhon theke -->
-
-## 📝 About Me
-I am a passionate **Web Developer** specializing in **MERN stack** development.  
-I love building **responsive, dynamic, and user-friendly web applications**.  
-I am proficient in **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, and JWT**, and I enjoy turning ideas into real-world applications.  
-I am always eager to **learn new technologies** and improve my skills to deliver high-quality projects.
-
----
-
-## 🔥 Technologies & Tools I Use
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <strong>Frontend</strong><br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <strong>Backend</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <strong>Tools & Platforms</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    </td>
-  </tr>
-</table>
- 
-
----
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="38" height="38" /> GitHub Stats & Analytics
-<div align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul-islam-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues,prs" height="195"/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul-islam-96&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="195"/>
-  <br/><br/>
-  <!-- Contribution Graph (বড় গ্রাফ) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul-islam-96&theme=tokyo-night&hide_border=true&point=FFFFFF&area=true&area_color=0d1117" alt="Contribution Graph" width="900"/>
-  <br/><br/>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul-islam-96&theme=tokyonight&hide_border=true&fire=FF4500&ring=00FF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="195"/>
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=kamrul-islam-96&label=Profile+Views&color=0e75b6&style=flat-square" />
-</div>
-
----
-## GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamrul-islam-96&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=kamrul-islam-96&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/kamrul-islam-96?label=Followers&style=for-the-badge&color=0d1117&labelColor=00d4ff" />
 
 </div>
 
 ---
 
-## 📫 Contact
-📩 Email:kamrulislambullet@gmail.com
-🌐 Portfolio:  
-🔗 LinkedIn: 
+<!-- About Section -->
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" style="border-radius:12px;"/>
+
+### 👨‍💻 About Me
+
+```javascript
+const kamrul = {
+  name: "Kamrul Islam",
+  role: "Full-Stack Web Developer",
+  stack: ["MERN", "React", "Node.js", "MongoDB"],
+  location: "Bangladesh 🇧🇩",
+  available: true, // Open to Work ✅
+  passion: "Building beautiful & scalable web apps",
+  goal: "Deliver impactful digital experiences"
+};
+```
+
+- 🔭 Currently building full-stack **MERN** applications
+- 🌱 Exploring **Next.js**, **TypeScript** & **Cloud Deployments**
+- 💡 Love turning complex problems into simple, elegant solutions
+- 🤝 Open to **freelance**, **remote**, or **full-time** opportunities
+- ⚡ Fun fact: I turn ☕ coffee into clean code!
+
+<br clear="right"/>
 
 ---
-⭐ *Thanks for visiting my GitHub profile!*  
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**⚡ Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**🔧 Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+**🔨 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrul-islam-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul-islam-96&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="180"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul-islam-96&theme=tokyonight&hide_border=true&fire=FF4500&ring=00d4ff&currStreakLabel=FFFFFF" height="180"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul-islam-96&theme=tokyo-night&hide_border=true&area=true&point=00d4ff" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamrul-islam-96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kamrul-islam-96&repo=kamrul-islam-96&theme=tokyonight&hide_border=true)](https://github.com/kamrul-islam-96)
+
+> 💼 *More projects on my [Portfolio](https://kamrulsportfoliosite.netlify.app/) →*
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<a href="mailto:kamrulislambullet@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://wa.me/01956056816">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://kamrulsportfoliosite.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/kamrul-islam-96">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💬 *"Code is like humor. When you have to explain it, it's bad."*
+> — Cory House
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+**⭐ If you like my work, consider starring my repositories!**
+
+</div>
