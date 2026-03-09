@@ -81,10 +81,6 @@ const kamrul = {
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrulislambullet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulislambullet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-<br/><br/>
 <img src="https://streak-stats.demolab.com/?user=kamrulislambullet&theme=tokyonight&hide_border=true&fire=FF4500&ring=00d4ff&currStreakLabel=FFFFFF" height="180"/>
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulislambullet&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
