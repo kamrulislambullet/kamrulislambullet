@@ -27,7 +27,7 @@ const kamrul = {
   name: "Kamrul Hasan",
   role: "Full-Stack Web Developer",
   stack: ["MERN", "React", "Node.js", Next.js, "MongoDB"],
-  location: "Bangladesh 🇧🇩",
+  location: "Thakurgaon, Bangladesh",
   available: true, // Open to Work ✅
   passion: "Building beautiful & scalable web apps",
   goal: "Deliver impactful digital experiences"
