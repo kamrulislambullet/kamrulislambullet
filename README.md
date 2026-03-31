@@ -94,8 +94,8 @@ const kamrul = {
 
 | 🚀 Project | 🛠 Tech | 🔗 Link |
 |---|---|---|
-| **ClubNest** | React, Node.js, Express.js, MongoDB, Firebase | [Live Demo](https://clubnest.netlify.app/) |
-| **Project Name 2** | Next.js, Tailwind, Firebase | [Live Demo](https://kamrulsportfoliosite.netlify.app/) |
+| **ClubNest** | React,Tailwind, Node.js, Express.js, MongoDB, Firebase | [Live Demo](https://clubnest.netlify.app/) |
+| **Career Pilot** | Next.js, Tailwind, NextAuth, MongoDB | [Live Demo](https://vercel.com/kamruls-projects-a798478d/career-pilot/settings/git) |
 | **Project Name 3** | MERN Stack, JWT | [Live Demo](https://kamrulsportfoliosite.netlify.app/) |
 
 💼 *More on my [Portfolio →](https://kamrulsportfoliosite.netlify.app/)*
